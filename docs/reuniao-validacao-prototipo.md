@@ -4,6 +4,7 @@
 **Participantes:** Equipe de desenvolvimento + cliente  
 **Objetivo:** Validação do protótipo de alta fidelidade e alinhamento técnico/comercial do MVP da plataforma.
 **Link:** [https://drive.google.com/file/d/1xrmmFLlzcEyGvifZvgkfVOnvKuRn9-zI/view?usp=drive_link]
+
 **Prototipo:**[https://www.figma.com/design/POSYbYoF6qd20vaCp178wn/Projeto-Shio?m=auto&t=MwIRiXVnzqFFXxoU-6]
 
 ---
