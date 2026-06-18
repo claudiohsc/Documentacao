@@ -31,3 +31,5 @@ Assista abaixo à gravação completa da reunião de validação final do MVP:
     </a>
   </p>
 </div>
+
+Link direto: [Clique aqui](https://drive.google.com/file/d/16LRkIIyGcJ-2UTOw9jla88uZR5PUtEzr/view?usp=sharing)
